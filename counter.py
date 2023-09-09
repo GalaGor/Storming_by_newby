@@ -1,5 +1,5 @@
 from time import sleep
-t = 13 * 3600 + 59 * 60 + 46
+t = 0
 while True:
     t = t + 1
     hh = t // 3600
